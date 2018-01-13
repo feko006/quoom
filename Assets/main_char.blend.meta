@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 41a10dfab374f0c42a7f8b2e2773a5b8
+timeCreated: 1515864130
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 3Finger_L
+    100002: 3Finger_R
+    100004: 3FingerDeform2_L
+    100006: 3FingerDeform2_R
+    100008: 3FingerDeform3_L
+    100010: 3FingerDeform3_R
+    100012: 3FingerDeform_L
+    100014: 3FingerDeform_R
+    100016: 4Finger_L
+    100018: 4Finger_R
+    100020: 4FingerDeform2_L
+    100022: 4FingerDeform2_R
+    100024: 4FingerDeform3_L
+    100026: 4FingerDeform3_R
+    100028: 4FingerDeform_L
+    100030: 4FingerDeform_R
+    100032: arm_L
+    100034: arm_R
+    100036: Armature
+    100038: arms
+    100040: Bone
+    100042: Bone_001
+    100044: Bone_002
+    100046: Bone_003
+    100048: hand_L
+    100050: hand_R
+    100052: indexFinger_L
+    100054: indexFinger_R
+    100056: indexFingerDeform1_L
+    100058: indexFingerDeform1_R
+    100060: indexFingerDeform2_L
+    100062: indexFingerDeform2_R
+    100064: indexFingerDeform3_L
+    100066: indexFingerDeform3_R
+    100068: //RootNode
+    100070: MidFinger_L
+    100072: MidFinger_R
+    100074: MidFingerDeform1_L
+    100076: MidFingerDeform1_R
+    100078: MidFingerDeform2_L
+    100080: MidFingerDeform2_R
+    100082: MidFingerDeform3_L
+    100084: MidFingerDeform3_R
+    100086: spine
+    100088: thumb_L
+    100090: thumb_R
+    100092: ThumbDeform1_L
+    100094: ThumbDeform1_R
+    100096: ThumbDeform2_L
+    100098: ThumbDeform2_R
+    100100: ThumbDeform3_L
+    100102: ThumbDeform3_R
+    100104: upperArm_L
+    100106: upperArm_R
+    100108: wep_000
+    400000: 3Finger_L
+    400002: 3Finger_R
+    400004: 3FingerDeform2_L
+    400006: 3FingerDeform2_R
+    400008: 3FingerDeform3_L
+    400010: 3FingerDeform3_R
+    400012: 3FingerDeform_L
+    400014: 3FingerDeform_R
+    400016: 4Finger_L
+    400018: 4Finger_R
+    400020: 4FingerDeform2_L
+    400022: 4FingerDeform2_R
+    400024: 4FingerDeform3_L
+    400026: 4FingerDeform3_R
+    400028: 4FingerDeform_L
+    400030: 4FingerDeform_R
+    400032: arm_L
+    400034: arm_R
+    400036: Armature
+    400038: arms
+    400040: Bone
+    400042: Bone_001
+    400044: Bone_002
+    400046: Bone_003
+    400048: hand_L
+    400050: hand_R
+    400052: indexFinger_L
+    400054: indexFinger_R
+    400056: indexFingerDeform1_L
+    400058: indexFingerDeform1_R
+    400060: indexFingerDeform2_L
+    400062: indexFingerDeform2_R
+    400064: indexFingerDeform3_L
+    400066: indexFingerDeform3_R
+    400068: //RootNode
+    400070: MidFinger_L
+    400072: MidFinger_R
+    400074: MidFingerDeform1_L
+    400076: MidFingerDeform1_R
+    400078: MidFingerDeform2_L
+    400080: MidFingerDeform2_R
+    400082: MidFingerDeform3_L
+    400084: MidFingerDeform3_R
+    400086: spine
+    400088: thumb_L
+    400090: thumb_R
+    400092: ThumbDeform1_L
+    400094: ThumbDeform1_R
+    400096: ThumbDeform2_L
+    400098: ThumbDeform2_R
+    400100: ThumbDeform3_L
+    400102: ThumbDeform3_R
+    400104: upperArm_L
+    400106: upperArm_R
+    400108: wep_000
+    4300000: wep_000
+    4300002: arms
+    7400000: Default Take
+    7400002: MainAnimWepDefault
+    7400004: MainAnimWepEquip
+    7400006: MainAnimWepReload
+    7400008: MainAnimWepUnequip
+    9500000: //RootNode
+    13700000: arms
+    13700002: wep_000
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
